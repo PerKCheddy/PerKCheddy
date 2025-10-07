@@ -6,8 +6,7 @@
 - html
 - css
 # languages I'm trying to know
-- C
-- C++
+- C / C++
 - JavaScript
 - Java
 - Python
